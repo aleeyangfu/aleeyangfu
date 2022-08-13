@@ -2,6 +2,11 @@
 - 👀 I’m interested in Deep learning
 - 🌱 I’m currently learning gait recognition
 
+📖山月记
+我生怕自己并非美玉
+所以就不敢去刻苦专研
+然而又半信自己是块美玉
+所以也无法无法与庸庸碌碌与瓦硕为伍...
 <mark>What am  I doing now? <mark>
 
 1. - [ ] Gait Recognition Paper Tracking 
