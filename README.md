@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aleeyangfu
+- 👋 Hi, I’m student at BNU
 - 👀 I’m interested in Deep learning
 - 🌱 I’m currently learning gait recognition
 
