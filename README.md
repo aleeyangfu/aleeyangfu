@@ -7,6 +7,9 @@
 所以就不敢去刻苦专研
 然而又半信自己是块美玉
 所以也无法无法与庸庸碌碌与瓦硕为伍...
+
+
+
 <mark>What am  I doing now? <mark>
 
 1. - [ ] Gait Recognition Paper Tracking 
@@ -18,6 +21,10 @@
    3. - [ ] Model Build 
    4. - [ ] Paper and submit 
    5. - [ ] Realse code and datasets  
+   
+   
+   
+   
  <mark>Paper List <mark>
    ✨ 
    ✨ 
